@@ -23,7 +23,7 @@ git clone https://github.com/izipay-pe/PopIn-PaymentForm-T1.Net.git
 
 ## 4.- Correr Proyecto
 * IIS Express
-* Correr proyecto con el Explorador Web de su preferencia+
+* Correr proyecto con el Explorador Web de su preferencia
 
 ## 5.- Demo
 ![demo](images/demo.png)
