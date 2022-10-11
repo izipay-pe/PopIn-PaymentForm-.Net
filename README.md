@@ -9,9 +9,9 @@ Ejemplo del formulario POP-IN de Izipay con C# .NET.
 * Node 16.14 o superior
 
 ## 1.- Descargar
-Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Embedded-PaymentForm-T1-React/archive/refs/heads/main.zip) o clonarlo desde Git.
+Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/PopIn-PaymentForm-T1.Net/archive/refs/heads/main.zip) o clonarlo desde Git.
 ```sh
-git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
+git clone https://github.com/izipay-pe/PopIn-PaymentForm-T1.Net.git
 ``` 
 
 ## 2.- Obtener Claves
@@ -21,13 +21,5 @@ git clone https://github.com/izipay-pe/Embedded-PaymentForm-T1.Net.git
 ## 3.- Configurar Claves
 ![Claves](images/credenciales.png)
 
-## 4.- Construir proyecto en producción.
-```sh
-npm run build
-``` 
-
-## 5.- Comprimir 
-Comprimir la carpeta `build/` que se ha creado con el comando anterior y subirlo a su hosting.
-
-## 6.- Demo
+## 4.- Demo
 ![demo](images/demo.png)
