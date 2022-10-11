@@ -5,8 +5,8 @@ Ejemplo del formulario POP-IN de Izipay con C# .NET.
 
 ## Requisitos Previos
 
-* Servidor Web que soporte Javascript
-* Node 16.14 o superior
+* Instalar Visual Studio [Aquí](https://visualstudio.microsoft.com/es/)
+* Version de .NET CORE de 3 en adelante
 
 ## 1.- Descargar
 Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/PopIn-PaymentForm-T1.Net/archive/refs/heads/main.zip) o clonarlo desde Git.
@@ -21,5 +21,9 @@ git clone https://github.com/izipay-pe/PopIn-PaymentForm-T1.Net.git
 ## 3.- Configurar Claves
 ![Claves](images/credenciales.png)
 
-## 4.- Demo
+## 4.- Correr Proyecto
+* IIS Express
+* Correr proyecto con el Explorador Web de su preferencia+
+
+## 5.- Demo
 ![demo](images/demo.png)
