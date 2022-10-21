@@ -1,9 +1,11 @@
 # PopIn-PaymentForm-T1.Net
 
 Ejemplo del formulario POP-IN de Izipay con C# .NET, para poder ejecutar el siguiente ejemplo seguir los pasos del presente manual.
-
-  ![pagar](images/formulario-popin.png)                                               
-                                                        
+ <p align="center">
+  <img src="images/formulario-popin.png?raw=true" alt="Formulario"/>                                             
+ </p>
+  <img src="/image/imagenes-readme/formulario-incrustado.png?raw=true" alt="Formulario"/>                                         
+                                            
 <a name="Requisitos_Previos"></a>
 
 ## Requisitos Previos
