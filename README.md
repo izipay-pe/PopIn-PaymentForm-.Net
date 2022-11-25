@@ -1,4 +1,4 @@
-# PopIn-PaymentForm-T1.Net
+# PopIn-PaymentForm.Net
 
 Ejemplo del formulario POP-IN de Izipay con C# .NET, para poder ejecutar el siguiente ejemplo seguir los pasos del presente manual.
 
@@ -15,9 +15,9 @@ Ejemplo del formulario POP-IN de Izipay con C# .NET, para poder ejecutar el sigu
 * Version de .NET CORE de 3 en adelante
 
 ## 1.- Crear el proyecto
-Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/PopIn-PaymentForm-T1.Net/archive/refs/heads/main.zip) o clonarlo desde Git.
+Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/PopIn-PaymentForm.Net/archive/refs/heads/main.zip) o clonarlo desde Git.
 ```sh
-git clone https://github.com/izipay-pe/PopIn-PaymentForm-T1.Net.git
+git clone https://github.com/izipay-pe/PopIn-PaymentForm.Net.git
 ``` 
 * Correr con IIS Express de manera Local 
 * Ejecútelo y pruébelo con el siguiente comando: `F5` desde la Vista `Home` `Index.cshtml` y abrira con su navegador web predeterminado
