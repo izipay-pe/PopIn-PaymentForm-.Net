@@ -1,6 +1,6 @@
 # PopIn-PaymentForm.Net
 
-Ejemplo del formulario incrustado, para utilizar C# .NET dentro de tu proyecto, te permitirá hacer un énfasis en la transparencia de redes, con independencia de plataforma de hardware y que permite un rápido desarrollo de aplicaciones.
+Ejemplo del formulario PopIn, para utilizar C# .NET dentro de tu proyecto, te permitirá hacer un énfasis en la transparencia de redes, con independencia de plataforma de hardware y que permite un rápido desarrollo de aplicaciones.
 
 C# es un lenguaje de programación multiparadigma y muy sofisticado que ha evolucionado en conjunto con el framework de Microsoft .NET. Tiene nuevas características, como tipos por referencia nullables, rangos, índices, streams asíncronos.
 
