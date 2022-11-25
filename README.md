@@ -8,7 +8,7 @@ Ejemplo del formulario PopIn, para utilizar el Lenguaje de Programación C# con 
  </p>                                
           
     
-## Este es un ejemplo de como poder integrar un formulario PopIn utilizando el Lenguaje de Programación C# con el Framework .NET. Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.       
+## Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.       
           
 <a name="Requisitos_Previos"></a>
 
